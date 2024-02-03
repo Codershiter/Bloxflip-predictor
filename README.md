@@ -7,13 +7,8 @@
 
 
 * Turn off antivirus and try agian
-
-𝙵 𝚄 𝙽 𝙲 𝚃 𝙸 𝙾 𝙽  :
-
-<p align="center">
-  <img src="">
-</p>
-
 - Predicts Mines
 - Easy to understand settings
+
+https://github.com/Codershiter/bloxflip/assets/158686563/7ed673cd-a5e6-457f-a637-aac6942b8f0b
 
